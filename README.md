@@ -44,20 +44,20 @@ The objective of this assignment is to develop a web application that allows use
 <summary>Landing Page</summary>
 <br/>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](images\landing_page_sm.jpeg)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](images/landing_page_sm.jpeg)
 
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](images\landing_page_lg.jpeg)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](images/landing_page_lg.jpeg)
 </details>
 
 <details>
 <summary>Doctor Profile</summary>
 <br/>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](images\doctor_profile_sm.jpeg)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](images/doctor_profile_sm.jpeg)
 
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](images\doctor_profile_lg.jpeg)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](images/doctor_profile_lg.jpeg)
 
-- [Appointment Approval](images\appointment_approval.jpeg)
+- [Appointment Approval](images/appointment_approval.jpeg)
 </details>
 
 ### Set Up Instructions
